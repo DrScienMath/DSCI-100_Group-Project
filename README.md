@@ -1,9 +1,10 @@
 # DSCI-100_Group-Project
 
 Project creation date: 2021/11/02
+
 Authors: Tony, Hannah, Kaitlyn, Laura
 
-
+Dataset link: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/processed.cleveland.data
 
 Predictors:
 #3 (age)
@@ -18,5 +19,4 @@ Predicitng: #58 (num) (the predicted attribute)
 
 Using these specific predictors, can we accurately predict if an individual is inflicted with heart disease?
 
-Method: Claffication 
-
+Method: Classification
